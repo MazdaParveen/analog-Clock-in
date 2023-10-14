@@ -1,2 +1,2 @@
 # analog-Clock-in
-this web app is developed with the help up of html css and javascript
+This web app is developed with the help up of HTML CSS and JavaScript
